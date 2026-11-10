@@ -1,3 +1,4 @@
 
 src/cursors/build.sh
 install.sh
+.env
